@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [Vulnerability Management](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - [REST API](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [SIEM](https://github.com/Ernestcyber/SIEMLab)
+  - [Active Directory Home Lab](https://github.com/Ernestcyber/ActiveDirectoryHomeLab)
+  - [FIM (File Integrity Monitor)](https://github.com/Ernestcyber/FIM-File-Integrity-Monitor)
+  - [Vulnerability Management](https://github.com/Ernestcyber/VulnerabilityManagementLab)
+  - [REST API](https://github.com/Ernestcyber/REST-API)
 
 <h2> Certifications:</h2>
 
