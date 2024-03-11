@@ -4,8 +4,8 @@
 
   - [SIEM](https://github.com/Ernestcyber/SIEMLab)
   - [Active Directory Home Lab](https://github.com/Ernestcyber/ActiveDirectoryHomeLab)
-  - [FIM (File Integrity Monitor)](https://github.com/Ernestcyber/FIM-File-Integrity-Monitor)
   - [Vulnerability Management](https://github.com/Ernestcyber/VulnerabilityManagementLab)
+  - [FIM (File Integrity Monitor)](https://github.com/Ernestcyber/FIM-File-Integrity-Monitor)
   - [REST API](https://github.com/Ernestcyber/REST-API)
 
 <h2> Certifications:</h2>
